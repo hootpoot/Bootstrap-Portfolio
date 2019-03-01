@@ -78,48 +78,17 @@ h1 {
 
 .container1 textarea {
     margin: 0px;
+    width: 100%;
 }
 
 
 
 
-.box {
-    background-color: #ffffff;
-    width: 960px;
-    border: 1px solid #dddddd;
-    margin-top: 40px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 100px;
-}
 
-.box h1 {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    border-bottom: 2px solid #dddddd;
-    padding: 10px;
-    padding-bottom: 25px;
-    margin: 20px;
-    color: #4aaaa5
-}
-
-.box img {
-    margin-left: 20px;
-    margin-right: 20px;
-    height: 200px;
-    width: 200px;
-    float: left;
-}
-
-.box p {
-    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-    color: grey;
-    line-height: 150%;
-    margin: 0 20px 20px 20px;
-}
 
 footer {
     background-color: #666666;
-    padding: 35px 20px 10px 20px;
+    padding: 20px 20px 5px 20px;
     text-align: center;
     position: fixed;
     bottom: 0;
@@ -134,21 +103,7 @@ footer p {
     
 }
 
-.box form {
-    padding-top: 0px;
-    
-}
 
-.box form p {
-    margin-bottom: 0px;
-    padding: 0px;
-}
-
-.box input {
-    margin: 10px 20px 10px 20px;
-    width: 920px;
-    line-height: 200%;
-}
 
 textarea {
     margin: 10px 20px 10px 20px;

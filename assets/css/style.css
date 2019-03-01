@@ -44,11 +44,37 @@ a:hover {
     color: rgb(73, 73, 73) !important;
 }
 
+
+
 .container1 {
     background-color: white;
     max-width: 960px;
     margin: 30px auto 50px auto;
+    padding: 25px;
+    border: 1px solid #dddddd;
 }
+
+h1 {
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    padding-bottom: 20px;
+    border-bottom: 2px solid #dddddd;
+}
+
+.container1 img {
+    float: left;
+    padding-right: 20px;
+    padding-top: 15px;
+}
+
+.container1 p {
+    color: grey;
+    padding-top: 15px;
+}
+
+
+
+
 
 .box {
     background-color: #ffffff;
